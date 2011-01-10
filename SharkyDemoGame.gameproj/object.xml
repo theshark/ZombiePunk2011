@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game PGFVersion="0.16" GSCVersion="0.9.0" title="Sharky Demo Game"><resolutionIndependence>0</resolutionIndependence><instructions>Add game instructions here.</instructions><resolution>0</resolution><longDescription>I'd like to try:
+1. Creating multiple scenes (complete)
+2. Adding animation loops (complete)
+2.1. Switch between animation loops (complete)
+3. Adding user control (complete)
+4. Implementing collisions (complete)
+5. Implementing physics (in progress)
+6. Implementing sound (complete but some buzzing)</longDescription><prototypes><actor id="id133888"/><actor id="id263116"/><actor id="id958545"/><actor id="id106731"/></prototypes><scenes><scene id="id269551"/><scene id="id382062"/></scenes><attributes><text id="name">default name</text><real id="time">0</real><size id="displaySize"><real id="width">480</real><real id="height">320</real></size><text id="actorTags">tanks</text></attributes></game>

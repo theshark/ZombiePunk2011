@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assets><sounds><file name="footsteps.ogg"/></sounds><images><file name="demogame_titletext.png"/><file name="x_standing.png"/><file name="x_runningleft01.png"/><file name="x_runningleft02.png"/><file name="x_runningleft03.png"/><file name="x_runningleft04.png"/><file name="x_runningright01.png"/><file name="x_runningright02.png"/><file name="x_runningright03.png"/><file name="x_runningright04.png"/><file name="tankleft.png"/><file name="tankright.png"/></images><behaviors/><actors/></assets>
